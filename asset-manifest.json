@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/germancats/static/css/main.7bd431dc.chunk.css",
+    "main.js": "/germancats/static/js/main.f540665e.chunk.js",
+    "main.js.map": "/germancats/static/js/main.f540665e.chunk.js.map",
+    "runtime-main.js": "/germancats/static/js/runtime-main.0f3a55f4.js",
+    "runtime-main.js.map": "/germancats/static/js/runtime-main.0f3a55f4.js.map",
+    "static/js/2.a3c82928.chunk.js": "/germancats/static/js/2.a3c82928.chunk.js",
+    "static/js/2.a3c82928.chunk.js.map": "/germancats/static/js/2.a3c82928.chunk.js.map",
+    "index.html": "/germancats/index.html",
+    "precache-manifest.a375269c310f05f53926364b5ba80931.js": "/germancats/precache-manifest.a375269c310f05f53926364b5ba80931.js",
+    "service-worker.js": "/germancats/service-worker.js",
+    "static/css/main.7bd431dc.chunk.css.map": "/germancats/static/css/main.7bd431dc.chunk.css.map",
+    "static/js/2.a3c82928.chunk.js.LICENSE.txt": "/germancats/static/js/2.a3c82928.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f3a55f4.js",
+    "static/js/2.a3c82928.chunk.js",
+    "static/css/main.7bd431dc.chunk.css",
+    "static/js/main.f540665e.chunk.js"
+  ]
+}
